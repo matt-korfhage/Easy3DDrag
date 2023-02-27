@@ -1,0 +1,12 @@
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\bin\Debug\net7.0-windows\Easy3DDrag.deps.json
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\bin\Debug\net7.0-windows\Easy3DDrag.dll
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\bin\Debug\net7.0-windows\Easy3DDrag.pdb
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\obj\Debug\net7.0-windows\Easy3DDrag.csproj.AssemblyReference.cache
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\obj\Debug\net7.0-windows\Easy3DDrag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\obj\Debug\net7.0-windows\Easy3DDrag.AssemblyInfoInputs.cache
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\obj\Debug\net7.0-windows\Easy3DDrag.AssemblyInfo.cs
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\obj\Debug\net7.0-windows\Easy3DDrag.csproj.CoreCompileInputs.cache
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\obj\Debug\net7.0-windows\Easy3DDrag.dll
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\obj\Debug\net7.0-windows\refint\Easy3DDrag.dll
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\obj\Debug\net7.0-windows\Easy3DDrag.pdb
+C:\Users\MattKorfhage\source\repos\Easy3DDrag\obj\Debug\net7.0-windows\ref\Easy3DDrag.dll

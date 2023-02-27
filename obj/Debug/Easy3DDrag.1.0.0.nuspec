@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Easy3DDrag</id>
+    <version>1.0.0</version>
+    <title>Easy3DDrag</title>
+    <authors>Matt Korfhage</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <description>Abstraction for 3D Viewer control components for WPF</description>
+    <copyright>MIT License</copyright>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\MattKorfhage\source\repos\Easy3DDrag\bin\Debug\net7.0-windows\Easy3DDrag.dll" target="lib\net7.0-windows7.0\Easy3DDrag.dll" />
+    <file src="C:\Users\MattKorfhage\source\repos\Easy3DDrag\LICENSE.txt" target="\LICENSE.txt" />
+    <file src="C:\Users\MattKorfhage\source\repos\Easy3DDrag\README.md" target="\README.md" />
+  </files>
+</package>
